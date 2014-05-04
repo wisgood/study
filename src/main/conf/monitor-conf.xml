@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monitor-conf>
+	<log-infos>
+		<log>
+			<logId>1416</logId>
+			<logDelay>3</logDelay>
+		</log>
+		<log>
+			<logId>718</logId>
+			<logDelay>3</logDelay>
+		</log>
+		<log>
+			<logId>1236</logId>
+			<logDelay>5</logDelay>
+		</log>
+	</log-infos>
+	<contact>
+		<user>
+			<email>wangxiaowei204876@sogou-inc.com</email>
+			<telphone>18618336672</telphone>
+		</user>
+		<user>
+			<email>litao@sogou-inc.com</email>
+			<telphone>18618336672</telphone>
+		</user>
+	</contact>
+	<wait-min>5</wait-min>
+</monitor-conf><!--comment -->

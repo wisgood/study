@@ -1,4 +1,4 @@
-package com.wnag.study.jersy;
+package com.wang.study.jersy;
 
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response.Status;
